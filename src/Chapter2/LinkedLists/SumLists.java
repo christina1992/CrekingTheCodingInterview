@@ -13,10 +13,13 @@ package Chapter2.LinkedLists;
  * Output: 9 - > 1 - > 2. That is, 912.
  */
 public class SumLists {
-
-    public static int sumLists(SLLNode<Integer> head1, SLLNode<Integer> head2) {
+    /*
+        Using StringBuilder, pretty straight-forward solution
+     */
+    public static SLL<Integer> sumLists(SLLNode<Integer> head1, SLLNode<Integer> head2) {
         StringBuilder sb1 = new StringBuilder();
         StringBuilder sb2 = new StringBuilder();
+        SLL<Integer> result = new SLL<>();
         while (head1 != null) {
             sb1.append(head1.element);
             head1 = head1.succ;
@@ -30,7 +33,14 @@ public class SumLists {
 
         int num1 = Integer.parseInt(new String(sb1));
         int num2 = Integer.parseInt(new String(sb2));
-        return num1 + num2;
+
+        int sum = num1 + num2;
+        String fin = String.valueOf(sum);
+        char[] chars = fin.toCharArray();
+        for (char c : chars) {
+            result.insertLast(Integer.parseInt(String.valueOf(c)));
+        }
+        return result;
     }
 
     public static void main(String[] args) {
@@ -44,6 +54,40 @@ public class SumLists {
         list2.insertLast(5);
         list2.insertLast(9);
         list2.insertLast(2);
-        System.out.println(sumLists(list1.getFirst(), list2.getFirst()));
+        System.out.println(sumLists(list1.getFirst(), list2.getFirst()).toString());
     }
+
+    /*
+        Solution from the book / Recursion
+     */
+    SLLNode<Integer> addLists(SLLNode<Integer> l1, SLLNode<Integer> l2, int carry) {
+        if (l1 == null && l2 == null && carry == 0) return null;
+        SLLNode<Integer> result = new SLLNode<>(0, null);
+        int value = carry;
+        if (l1 != null) {
+            value += l1.element;
+        }
+        if (l2 != null) {
+            value += l2.element;
+        }
+        result.element = value % 10; /* Second digit of the number */
+        /*Recursive*/
+        if (l1 != null || l2 != null) {
+            SLLNode<Integer> more = addLists(l1 == null ? null : l1.succ, l2 == null ? null : l2.succ, value >= 10 ? 1 : 0);
+            result.succ = more;
+
+        }
+        return result;
+    }
+    /*
+        An other solution from the book
+     */
+
+    class PartialSum {
+        public SLLNode<Integer> sum = null;
+        public int carry = 8;
+    }
+
+
+
 }
