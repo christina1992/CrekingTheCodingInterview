@@ -79,15 +79,6 @@ public class SumLists {
         }
         return result;
     }
-    /*
-        An other solution from the book
-     */
-
-    class PartialSum {
-        public SLLNode<Integer> sum = null;
-        public int carry = 8;
-    }
-
 
 
 }
