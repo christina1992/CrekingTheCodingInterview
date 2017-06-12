@@ -1,6 +1,4 @@
-package GraphsAndTreesBasic.finki_stuff;
-
-import GraphsAndTreesBasic.TreeNode;
+package GraphsAndTreesBasic;
 
 /**
  * Created by hnastevska on 6/12/2017.
