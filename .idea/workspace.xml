@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991981dc-29f0-4360-96f2-81328bec7316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/binarysearchtree/BNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/binarysearchtree/BinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/LinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/SLLNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/GraphNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/GraphNodeNeighbor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/GraphTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/LinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/SLLNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/GraphTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/LinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/SLLNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/GraphTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/LinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/SLLNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/maze/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/maze/Maze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/heap/Heap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/heap/HeapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/Helper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BTree.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java" />
     </list>
     <ignored path="CreakingTheCodingInterview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -920,7 +890,7 @@
       <updated>1495881371011</updated>
       <workItem from="1496660852148" duration="13477000" />
       <workItem from="1497254116626" duration="20602000" />
-      <workItem from="1497947631743" duration="16655000" />
+      <workItem from="1497947631743" duration="17525000" />
     </task>
     <task id="LOCAL-00001" summary="detect cycle linkedlists">
       <created>1496763042965</created>
@@ -936,11 +906,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497366132933</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finki graphs">
+      <created>1498046182789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498046182789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50734000" />
+    <option name="totallyTimeSpent" value="51604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -992,7 +969,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="detect cycle linkedlists" />
     <MESSAGE value="tree stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="tree stuff" />
+    <MESSAGE value="finki graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="finki graphs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1316,8 +1294,8 @@
         <state relative-caret-position="550">
           <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
           <folding>
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="false" />
+            <element signature="e#537#538#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1327,7 +1305,7 @@
         <state relative-caret-position="398">
           <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
           <folding>
-            <element signature="e#310#340#0" expanded="true" />
+            <element signature="e#310#340#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1428,8 +1406,8 @@
         <state relative-caret-position="376">
           <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding>
-            <element signature="e#223#253#0" expanded="true" />
-            <element signature="e#505#535#0" expanded="true" />
+            <element signature="e#223#253#0" expanded="false" />
+            <element signature="e#505#535#0" expanded="false" />
           </folding>
         </state>
       </provider>
