@@ -78,6 +78,31 @@ public class BTree<E> {
         System.out.println();
     }
 
+    public void iterativePreOrder(BNode<E> root) {
+        ArrayStack<BNode<E>> s = new ArrayStack<>(100);
+        BNode<E> p = root;
+        System.out.println("PREORDER (nonrecursive): ");
+        while (true) {
+            p = s.peek();
+            s.pop();
+            System.out.println(p.info.toString() + " ");
+            while (p != null) {
+                s.push(p);
+                p = p.right;
+            }
+            if (s.isEmpty()) break;
+
+
+            p = p.left;
+        }
+        System.out.println();
+    }
+
+
+    public void iterativePostOrder(BNode<E> root) {
+
+    }
+
     public void makeRoot(E elem) {
         root = new BNode<>(elem);
     }

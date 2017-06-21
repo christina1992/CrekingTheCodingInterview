@@ -18,10 +18,10 @@ public class BinaryTreeTraverse {
         c = tree.addChild(b, BNode.LEFT, 'H');
         c = tree.addChild(b, BNode.RIGHT, 'J');
 
-        tree.inOrder();
-        tree.iterativeInOrder(tree.root);
-//        tree.preOrder();
-//        tree.postOrder();
+       // tree.inOrder();
+        tree.iterativePreOrder(tree.root);
+       // tree.preOrder();
+       // tree.postOrder();
 
 
     }
