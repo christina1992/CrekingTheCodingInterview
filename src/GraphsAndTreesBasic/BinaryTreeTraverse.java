@@ -6,7 +6,7 @@ package GraphsAndTreesBasic;
 public class BinaryTreeTraverse {
 
     public static void main(String[] args) {
-        BNode<Character> a, b, c;
+        BNode<Character> a, b, c,e;
         BTree<Character> tree = new BTree<>('F');
         a = tree.addChild(tree.root, BNode.LEFT, 'D');
         b = tree.addChild(a, BNode.LEFT, 'B');
@@ -17,11 +17,18 @@ public class BinaryTreeTraverse {
         b = tree.addChild(a, BNode.RIGHT, 'I');
         c = tree.addChild(b, BNode.LEFT, 'H');
         c = tree.addChild(b, BNode.RIGHT, 'J');
+        e = tree.addChild(c, BNode.RIGHT, 'P');
 
        // tree.inOrder();
         tree.iterativePreOrder(tree.root);
        // tree.preOrder();
        // tree.postOrder();
+        tree.inOrder();
+        tree.mirror(tree.root);
+        tree.inOrder();
+     //   System.out.println(tree.treeDepth());
+//        tree.preOrder();
+     //   tree.postOrder();
 
 
     }
