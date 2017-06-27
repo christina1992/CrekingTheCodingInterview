@@ -1,4 +1,7 @@
-package GraphsAndTreesBasic;
+package Chapter4.TreesAndGraphs.vezbi;
+
+
+import java.util.Stack;
 
 /**
  * Created by hnastevska on 6/13/2017.
@@ -59,7 +62,7 @@ public class BTree<E> {
     }
 
     public void iterativeInOrder(BNode<E> root) {
-        ArrayStack<BNode<E>> s = new ArrayStack<>(100);
+        Stack<BNode<E>> s = new Stack<>();
         BNode<E> p = root;
         System.out.println("INORDER (nonrecursive): ");
 
@@ -79,7 +82,7 @@ public class BTree<E> {
     }
 
     public void iterativePreOrder(BNode<E> root) {
-        ArrayStack<BNode<E>> s = new ArrayStack<>(100);
+        Stack<BNode<E>> s = new Stack<>();
         BNode<E> p = root;
         System.out.println("PREORDER (nonrecursive): ");
         while (true) {

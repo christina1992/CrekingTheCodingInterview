@@ -168,4 +168,7 @@ public class Graph<E> {
     }
 
 
+    public E[] getNodes() {
+        return nodes;
+    }
 }

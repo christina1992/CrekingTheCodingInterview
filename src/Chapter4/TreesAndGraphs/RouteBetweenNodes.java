@@ -1,21 +1,13 @@
-/*
 package Chapter4.TreesAndGraphs;
 
-        import Chapter3.StacksAndQueue.Node;
-        import com.sun.corba.se.impl.orbutil.graph.Graph;
 
-        import java.util.LinkedList;
 
-*/
-/**
- * Created by Christina on 11-Jun-17.
- *//*
+
+import GraphsAndTreesBasic.finki_stuff.graphs.lista_tezinski_nasocen.Graph;
+
+import java.util.LinkedList;
 
 public class RouteBetweenNodes {
-    enum State {Unviited, Viited, Viiting}
-
-    ;
-
     boolean search(Graph g, Node start, Node end) {
         if (start == end) return true;
 
@@ -45,7 +37,9 @@ public class RouteBetweenNodes {
             }
 
         }
-        return false
+        return false;
     }
+
+
+    enum State {Unviited, Viited, Viiting}
 }
-*/

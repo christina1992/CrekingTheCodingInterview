@@ -1,4 +1,4 @@
-package GraphsAndTreesBasic.finki_stuff.graphs.lista_netezinski_nasocen;
+package Chapter4.TreesAndGraphs.vezbi;
 
 /**
  * Created by hnastevska on 6/21/2017.
@@ -9,24 +9,24 @@ public interface Queue<E> {
 
     // Metodi za pristap:
 
-    public boolean isEmpty ();
+    public boolean isEmpty();
     // Vrakja true ako i samo ako redicata e prazena.
 
-    public int size ();
+    public int size();
     // Ja vrakja dolzinata na redicata.
 
-    public E peek ();
+    public E peek();
     // Go vrakja elementot na vrvot t.e. pocetokot od redicata.
 
     // Metodi za transformacija:
 
-    public void clear ();
+    public void clear();
     // Ja prazni redicata.
 
-    public void enqueue (E x);
+    public void enqueue(E x);
     // Go dodava x na kraj od redicata.
 
-    public E dequeue ();
+    public E dequeue();
     // Go otstranuva i vrakja pochetniot element na redicata.
 
 }

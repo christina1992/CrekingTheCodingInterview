@@ -1,4 +1,4 @@
-package GraphsAndTreesBasic;
+package Chapter4.TreesAndGraphs.vezbi;
 
 /**
  * Created by hnastevska on 6/13/2017.

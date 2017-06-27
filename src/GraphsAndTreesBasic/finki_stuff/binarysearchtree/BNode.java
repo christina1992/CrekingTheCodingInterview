@@ -8,6 +8,7 @@ public class BNode<E extends Comparable<E>> {
     public E info;
     public BNode<E> left;
     public BNode<E> right;
+    public BNode parent;
 
     public BNode(E info) {
         this.info = info;

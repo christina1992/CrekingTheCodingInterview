@@ -1,4 +1,5 @@
-package GraphsAndTreesBasic.finki_stuff.graphs.lista_netezinski_nasocen;
+package Chapter4.TreesAndGraphs.vezbi;
+
 
 /**
  * Created by hnastevska on 6/21/2017.
@@ -19,13 +20,21 @@ public class GraphTester {
         g.addEdge(2, 5); //dodavam rebro od B do F
         g.addEdge(5, 8); //dodavam rebro od F do I
         g.addEdge(0, 4); //dodavam rebro od A do E
+        g.addEdge(0, 6); //dodavam rebro od A do G
         System.out.print(g);
-        System.out.println("Depth First Search Recursive:");
-        g.dfsSearch(0);
-        System.out.println("Depth First Search Nonrecursive:");
-        g.dfsNonrecursive(0);
-        System.out.println("Breath First Search:");
-        g.bfs(0);
+        System.out.println(g.isThereARoute(2,5));
+        System.out.println(g.isThereARouteBFS(2,5));
+        System.out.println(g.isThereARouteDFS(2,5));
+//       System.out.println(g.hasVertex(-2));
+//        System.out.println(g.countEdges());
+//        System.out.println(g.countVertex())
+//       System.out.println(g.getDegree(5));
+//        System.out.println("Depth First Search Recursive:");
+//       g.dfsSearch(0);
+//        System.out.println("Depth First Search Nonrecursive:");
+//        g.dfsNonrecursive(0);
+//        System.out.println("Breath First Search:");
+        //g.bfs(0);
 
     }
 }

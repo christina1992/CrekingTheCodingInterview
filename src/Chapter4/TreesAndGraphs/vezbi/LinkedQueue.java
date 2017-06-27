@@ -1,4 +1,5 @@
-package GraphsAndTreesBasic.finki_stuff.graphs.lista_netezinski_nasocen;
+package Chapter4.TreesAndGraphs.vezbi;
+
 
 import java.util.NoSuchElementException;
 
@@ -16,7 +17,7 @@ public class LinkedQueue<E> implements Queue<E> {
 
     // Konstruktor ...
 
-    public LinkedQueue () {
+    public LinkedQueue() {
         clear();
     }
 

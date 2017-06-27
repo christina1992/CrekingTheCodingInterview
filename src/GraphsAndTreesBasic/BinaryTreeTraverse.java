@@ -24,8 +24,8 @@ public class BinaryTreeTraverse {
        // tree.preOrder();
        // tree.postOrder();
         tree.inOrder();
-        tree.mirror(tree.root);
-        tree.inOrder();
+//        tree.mirror(tree.root);
+//        tree.inOrder();
      //   System.out.println(tree.treeDepth());
 //        tree.preOrder();
      //   tree.postOrder();

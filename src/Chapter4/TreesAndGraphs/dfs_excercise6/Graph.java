@@ -1,4 +1,5 @@
-package Chapter4.TreesAndGraphs;
+package Chapter4.TreesAndGraphs.dfs_excercise6;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,7 +13,7 @@ public class Graph {
 
     public Project getOrCreateNode(String name) {
         if (!map.containsKey(name)) {
-            Project node = new Project(name);
+           Project node = new Project(name);
             nodes.add(node);
             map.put(name, node);
         }
@@ -20,8 +21,8 @@ public class Graph {
     }
 
     public void addEdge(String startName, String endName) {
-        Project start = getOrCreateNode(startName);
-        Project end = getOrCreateNode(endName);
+     Project start = getOrCreateNode(startName);
+      Project end = getOrCreateNode(endName);
         start.addNeighbor(end);
     }
 

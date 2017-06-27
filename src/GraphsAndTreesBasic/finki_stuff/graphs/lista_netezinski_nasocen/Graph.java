@@ -125,5 +125,8 @@ public class Graph<E> {
         return ret;
     }
 
+    public GraphNode<E>[] getNodes() {
+        return adjList;
+    }
 }
 

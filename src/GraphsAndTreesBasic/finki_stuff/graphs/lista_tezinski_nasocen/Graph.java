@@ -1,5 +1,7 @@
 package GraphsAndTreesBasic.finki_stuff.graphs.lista_tezinski_nasocen;
 
+import Chapter4.TreesAndGraphs.Node;
+
 import java.util.Stack;
 
 public class Graph<E> {
@@ -127,7 +129,9 @@ public class Graph<E> {
 			ret+=adjList[i]+"\n";
 		return ret;
 	}
-	
-	
-	
+
+
+	public Node[] getNodes() {
+		return null;
+	}
 }

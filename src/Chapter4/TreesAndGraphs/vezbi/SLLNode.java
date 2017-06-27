@@ -1,4 +1,4 @@
-package GraphsAndTreesBasic.finki_stuff.graphs.lista_netezinski_nasocen;
+package Chapter4.TreesAndGraphs.vezbi;
 
 /**
  * Created by hnastevska on 6/21/2017.
