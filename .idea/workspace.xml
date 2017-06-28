@@ -2,55 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991981dc-29f0-4360-96f2-81328bec7316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/BinaryToString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/Conversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/DrawLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/FlipBit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/Insertion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/NextNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter5/BitManipulation/PairwiseSwap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Call.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/CallHendler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Caller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Director.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Rank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Respondent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackCard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackHand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Card.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Deck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Hand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Suit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/helper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BST_Sequences.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BST_Sequences.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BuildOrder.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BuildOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckBalanced.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckBalanced.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtree.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtreeOptimized.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtreeOptimized.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor1.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor2.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Graph.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ListOfDepths.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ListOfDepths.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/MinimalTree.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/MinimalTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Node.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum_Optimized.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum_Optimized.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Project.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Project.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/RouteBetweenNodes.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/RouteBetweenNodes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Successor.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Successor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/BuildOrder.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/BuildOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/FirstCommonAncestorOptimized.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/FirstCommonAncestorOptimized.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Graph.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Project.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Project.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/RandomNode.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/RandomNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/Tree.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/Tree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode2.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BNode.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BTree.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Graph.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphNode.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphTester.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/LinkedQueue.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/LinkedQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/ListOfDepths.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/ListOfDepths.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/MinimalBST.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/MinimalBST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Queue.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Queue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/SLLNode.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/SLLNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/binarysearchtree/BNode.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/binarysearchtree/BNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Graph.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Graph.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/Graph.java" afterPath="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/Graph.java" />
     </list>
     <ignored path="CreakingTheCodingInterview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,87 +38,7 @@
     <favorites_list name="CreakingTheCodingInterview" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/Insertion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryToString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/BinaryToString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-              <folding>
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlipBit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/FlipBit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NextNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/NextNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conversion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/Conversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairwiseSwap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/PairwiseSwap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawLine.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/DrawLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -172,24 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphTester.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphNode.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/maze/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Chapter3/StacksAndQueue/Node.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Graph.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nasocen/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/RouteBetweenNodes.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Node.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/MinimalTree.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ListOfDepths.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckBalanced.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" />
-        <option value="$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/binarysearchtree/BNode.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Successor.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Project.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Graph.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BuildOrder.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Graph.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Project.java" />
@@ -223,6 +92,24 @@
         <option value="$PROJECT_DIR$/src/Chapter5/BitManipulation/NextNumber.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/BitManipulation/Conversion.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/BitManipulation/PairwiseSwap.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restourant/Restorant.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restourant/Restourant.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restaurant/Restourant.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restaurant/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Suit.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Card.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Deck.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Hand.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackCard.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackHand.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Caller.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Call.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Rank.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/CallHendler.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Respondent.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Director.java" />
       </list>
     </option>
   </component>
@@ -233,8 +120,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1221" />
-    <option name="height" value="1032" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -310,7 +199,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BitManipulation" />
+              <option name="myItemId" value="ObjectOrientedDesign" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,18 +216,20 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\Chapter4\TreesAndGraphs\vezbi" />
-      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\maze" />
-      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\lista_tezinski_nasocen" />
-      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chapter7.ObjectOrientedDesign.call_center" />
+      <recent name="Chapter7.ObjectOrientedDesign.deckOfCards" />
+      <recent name="Chapter3.StacksAndQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Chapter4.TreesAndGraphs.vezbi" />
       <recent name="Chapter4.TreesAndGraphs.dfs_excercise6" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Chapter3.StacksAndQueue" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\Chapter4\TreesAndGraphs\vezbi" />
+      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\maze" />
+      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\lista_tezinski_nasocen" />
+      <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -946,7 +837,7 @@
       <workItem from="1498051441928" duration="31675000" />
       <workItem from="1498148751504" duration="32184000" />
       <workItem from="1498307296234" duration="16647000" />
-      <workItem from="1498466424306" duration="14497000" />
+      <workItem from="1498466424306" duration="25189000" />
     </task>
     <task id="LOCAL-00001" summary="detect cycle linkedlists">
       <created>1496763042965</created>
@@ -976,14 +867,21 @@
       <option name="project" value="LOCAL" />
       <updated>1498466572811</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter5">
+      <created>1498576042811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498576042811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146607000" />
+    <option name="totallyTimeSpent" value="157299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1221" height="1032" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -994,11 +892,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33217993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32542372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33973798" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20891514" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1034,7 +932,8 @@
     <MESSAGE value="tree stuff" />
     <MESSAGE value="finki graphs" />
     <MESSAGE value="chapter4" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
+    <MESSAGE value="chapter5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1072,130 +971,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="121" column="8" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
-          <folding>
-            <element signature="e#3249#3250#0" expanded="false" />
-            <element signature="e#3267#3268#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/GraphTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/GraphNodeNeighbor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_tezinski_nasocen/GraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/LinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/lista_netezinski_nasocen/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/SLLNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/LinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-635">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/maze/Maze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2156">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/maze/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="315" column="19" selection-start-line="315" selection-start-column="19" selection-end-line="315" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1280,6 +1055,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1295,6 +1071,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,6 +1106,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1454,8 +1232,8 @@
         <state relative-caret-position="532">
           <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
           <folding>
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="false" />
+            <element signature="e#842#843#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1489,8 +1267,8 @@
         <state relative-caret-position="154">
           <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#216#217#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1500,6 +1278,208 @@
         <state relative-caret-position="110">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restaurant/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Suit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#265#266#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Caller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Call.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Rank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/CallHendler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#2062#2063#0" expanded="true" />
+            <element signature="e#2089#2090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Respondent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
