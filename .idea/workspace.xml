@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991981dc-29f0-4360-96f2-81328bec7316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Call.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/CallHendler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Caller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Director.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Rank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Respondent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/BlackJackHand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Card.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Deck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Hand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Suit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/helper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BooleanEvaluation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BoxComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Coins.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/EightQueens.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/MagicIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PaintFill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Parents.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithDuplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithoutDups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PowerSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RecursiveMultiply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RobotInAGrid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/StackOfBoxes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Tower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TowersOfHanoi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TripleStep.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CreakingTheCodingInterview/Chapter1/ArraysAndStrings/StringRotation.class" afterPath="$PROJECT_DIR$/out/production/CreakingTheCodingInterview/Chapter1/ArraysAndStrings/StringRotation.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringRotation.java" afterPath="$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringRotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" afterPath="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" />
     </list>
     <ignored path="CreakingTheCodingInterview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +45,53 @@
     <favorites_list name="CreakingTheCodingInterview" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Coins.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Coins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EightQueens.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/EightQueens.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackOfBoxes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/StackOfBoxes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BooleanEvaluation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BooleanEvaluation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+              <folding>
+                <element signature="e#1976#1977#0" expanded="true" />
+                <element signature="e#2027#2028#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,28 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BuildOrder.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/Project.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/BuildOrder.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor1.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/dfs_excercise6/FirstCommonAncestorOptimized.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BST_Sequences.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtree.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtreeOptimized.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/RandomNode.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/Tree.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum_Optimized.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Queue.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/SLLNode.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/LinkedQueue.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphNode.java" />
-        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Graph.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphTester.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BNode.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BTree.java" />
@@ -110,6 +141,28 @@
         <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Respondent.java" />
         <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Manager.java" />
         <option value="$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/call_center/Director.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TripleStep.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Point.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RobotInAGrid.java" />
+        <option value="$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java" />
+        <option value="$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringRotation.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/MagicIndex.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PowerSet.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RecursiveMultiply.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Tower.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TowersOfHanoi.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithoutDups.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Parents.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PaintFill.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Coins.java" />
+        <option value="$PROJECT_DIR$/src/SortingArray.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/EightQueens.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BoxComparator.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Box.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/StackOfBoxes.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BooleanEvaluation.java" />
       </list>
     </option>
   </component>
@@ -150,9 +203,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ObjectOrientedDesign" />
+              <option name="myItemId" value="RecursionAndDynamicProgramming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,20 +269,21 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Chapter7.ObjectOrientedDesign.call_center" />
-      <recent name="Chapter7.ObjectOrientedDesign.deckOfCards" />
-      <recent name="Chapter3.StacksAndQueue" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Chapter4.TreesAndGraphs.vezbi" />
-      <recent name="Chapter4.TreesAndGraphs.dfs_excercise6" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\Chapter4\TreesAndGraphs\vezbi" />
       <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\maze" />
       <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic\finki_stuff\graphs\lista_tezinski_nasocen" />
       <recent name="C:\Users\hnastevska\Documents\Interen\CrekingTheCodingInterview\src\GraphsAndTreesBasic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter4.TreesAndGraphs.vezbi" />
+      <recent name="Chapter4.TreesAndGraphs.dfs_excercise6" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chapter8.RecursionAndDynamicProgramming" />
+      <recent name="Chapter7.ObjectOrientedDesign.call_center" />
+      <recent name="Chapter7.ObjectOrientedDesign.deckOfCards" />
+      <recent name="Chapter3.StacksAndQueue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,47 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryToString">
-    <configuration default="false" name="GraphTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="GraphsAndTreesBasic.finki_stuff.graphs.matrica_nenasocen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="GraphsAndTreesBasic.finki_stuff.graphs.matrica_nenasocen.GraphTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CreakingTheCodingInterview" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GraphTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter4.TreesAndGraphs.vezbi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter4.TreesAndGraphs.vezbi.GraphTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CreakingTheCodingInterview" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Coins">
     <configuration default="false" name="ListOfDepths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -333,6 +347,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter5.BitManipulation.BinaryToString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CreakingTheCodingInterview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.RecursionAndDynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter8.RecursionAndDynamicProgramming.Fibonacci" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CreakingTheCodingInterview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.RecursionAndDynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter8.RecursionAndDynamicProgramming.Coins" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -774,19 +828,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GraphTester" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GraphTester (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ListOfDepths" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Insertion" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryToString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ListOfDepths" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Insertion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryToString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Coins" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryToString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Insertion" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ListOfDepths" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GraphTester (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GraphTester" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Coins" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinaryToString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Insertion" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ListOfDepths" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -837,7 +891,8 @@
       <workItem from="1498051441928" duration="31675000" />
       <workItem from="1498148751504" duration="32184000" />
       <workItem from="1498307296234" duration="16647000" />
-      <workItem from="1498466424306" duration="25189000" />
+      <workItem from="1498466424306" duration="41358000" />
+      <workItem from="1499069617206" duration="41324000" />
     </task>
     <task id="LOCAL-00001" summary="detect cycle linkedlists">
       <created>1496763042965</created>
@@ -874,11 +929,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498576042811</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="chapter7">
+      <created>1498657232787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1498657232787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157299000" />
+    <option name="totallyTimeSpent" value="214792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -896,7 +958,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20891514" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21589689" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -933,7 +995,8 @@
     <MESSAGE value="finki graphs" />
     <MESSAGE value="chapter4" />
     <MESSAGE value="chapter5" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
+    <MESSAGE value="chapter7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -971,278 +1034,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/finki_stuff/graphs/matrica_nenasocen/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/RouteBetweenNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="147" column="26" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1085#1086#0" expanded="false" />
-            <element signature="e#1138#1139#0" expanded="false" />
-            <element signature="e#1374#1375#0" expanded="false" />
-            <element signature="e#1406#1407#0" expanded="false" />
-            <element signature="e#1453#1454#0" expanded="false" />
-            <element signature="e#1495#1496#0" expanded="false" />
-            <element signature="e#1537#1538#0" expanded="false" />
-            <element signature="e#1567#1568#0" expanded="false" />
-            <element signature="e#1621#1622#0" expanded="false" />
-            <element signature="e#1659#1660#0" expanded="false" />
-            <element signature="e#1691#1692#0" expanded="false" />
-            <element signature="e#1723#1724#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/GraphTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="e#1254#1255#0" expanded="false" />
-            <element signature="e#1281#1282#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/very_important_tree_creation/TreeNode2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/BTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/BNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/MinimalTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/MinimalBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#296#297#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/BinaryTreeTraverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="36" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphsAndTreesBasic/PrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/BTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/vezbi/ListOfDepths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckBalanced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ListOfDepths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="23" column="49" selection-start-line="21" selection-start-column="8" selection-end-line="23" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BST_Sequences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Successor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/BuildOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/FirstCommonAncestor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/Paths_with_Sum_Optimized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/CheckSubtreeOptimized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="1330" column="28" selection-start-line="1330" selection-start-column="28" selection-end-line="1330" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/BinaryToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#842#843#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/BitManipulation/FlipBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,7 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1258,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1277,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,28 +1077,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restaurant/Restaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/restaurant/Restaurant.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter7/ObjectOrientedDesign/deckOfCards/Suit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#236#237#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,14 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,10 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1340,16 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,16 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1375,14 +1121,14 @@
         <state relative-caret-position="488">
           <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding>
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="false" />
+            <element signature="e#926#927#0" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#992#993#0" expanded="false" />
+            <element signature="e#1021#1022#0" expanded="false" />
+            <element signature="e#1057#1058#0" expanded="false" />
+            <element signature="e#1093#1094#0" expanded="false" />
+            <element signature="e#1120#1121#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1391,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1399,14 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1414,18 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1433,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1441,12 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
-          <folding>
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#2062#2063#0" expanded="true" />
-            <element signature="e#2089#2090#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1454,10 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1466,8 +1180,8 @@
         <state relative-caret-position="154">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1476,9 +1190,274 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TripleStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RobotInAGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/PermutationOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="26" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter4/TreesAndGraphs/ValidateBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringEditing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/ReplaceSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/StringRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/RecursiveMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PowerSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/MagicIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#MagicIndex#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Tower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/TowersOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithoutDups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PermutationsWithDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/ArraysAndStrings/UniqueCharactersInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Parents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/PaintFill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Coins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/EightQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BoxComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/StackOfBoxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter8/RecursionAndDynamicProgramming/BooleanEvaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#1976#1977#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
