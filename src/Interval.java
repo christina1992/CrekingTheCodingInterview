@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 /**
  *
@@ -22,14 +23,22 @@ public class Interval {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        overlapTest(100, 200, 120, 250); // -> true
-        overlapTest(135, 200, 140, 160); // -> true
-        overlapTest(1000, 2000, 3000, 4000); // -> false
-        overlapTest(500, 600, 100, 500); // -> true
-        overlapTest(100, 200, 200, 201);// -> true
-        overlapTest(400, 300, 200, 100);// -> false
-        overlapTest(100, 300, 200, 400);// -> false
+        Scanner in = new Scanner(System.in);
+        int counter = 0;
+        int sum = 0;
+        int t = in.nextInt();
+        for(int a0 = 0; a0 < t; a0++){
+            int n = in.nextInt();
+
+            for (int i = 0; i < n; i++) {
+                if (i % 3 == 0 || i % 5 == 0) {
+                    sum += i;
+                }
+            }
+            System.out.println(sum);
+            sum=0;
+        }
+
 
     }
 
