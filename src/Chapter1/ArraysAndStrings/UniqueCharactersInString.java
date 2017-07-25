@@ -53,8 +53,8 @@ public class UniqueCharactersInString {
     }
 
     public static void main(String[] args) {
-        String hristina = "hRistina";
-        String smthing = "smtHing";
+        String hristina = "hRistina#";
+        String smthing = "smtHing##";
         System.out.println(isUniqueChars(hristina));
         System.out.println(isUniqueChars(smthing));
 
