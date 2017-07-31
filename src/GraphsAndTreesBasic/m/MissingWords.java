@@ -29,7 +29,7 @@ public class MissingWords {
                 list.add(s1);
             }
         }
-
+        System.out.println(list.size());
         return list.toArray(new String[list.size()]);
 
     }

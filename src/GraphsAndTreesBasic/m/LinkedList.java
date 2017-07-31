@@ -28,14 +28,13 @@ public class LinkedList {
 
     public static void main(String[] args) {
         SLL<Integer> list = new SLL<>();
-        list.insertLast(1);
-        list.insertLast(2);
-        list.insertLast(3);
-        list.insertLast(4);
         list.insertLast(5);
-        list.insertLast(6);
+        list.insertLast(1);
+        list.insertLast(3);
+        list.insertLast(2);
         list.insertLast(7);
-        list.insertLast(8);
+        list.insertLast(10);
+
 
         SLLNode<Integer> smth = deleteOdd(list.getFirst());
 

@@ -4,7 +4,7 @@ package GraphsAndTreesBasic.m;
  * Created by hnastevska on 7/21/2017.
  */
 public class FindMax {
-    public static int method(int arr[]) {
+    public static int[] method(int arr[]) {
         int first, second;
         if (arr[0] > arr[1]) {
             first = arr[0];
@@ -22,8 +22,10 @@ public class FindMax {
             } else if (arr[i] > second && arr[i] != first)
                 second = arr[i];
         }
-
-        return (first + second);
+        int[]  nums = new int[2];
+        nums[0] = first;
+        nums[1] = second;
+        return nums;
     }
     static int[] findMax(int N, int[] numbers) {
 
@@ -53,10 +55,9 @@ public class FindMax {
     }
     public static void main(String[] args) {
         int[] arr = {15, 1973, 7873, 6276, 8197, 3429, 6746, 4163, 7454, 554, 996, 859, 69, 7908, 1517, 7408};
-        int[] bla = findMax(arr.length, arr);
+        int[] bla = method(arr);
         System.out.println(bla[0]);
         System.out.println(bla[1]);
-        System.out.println(method(arr));
 
     }
 }
