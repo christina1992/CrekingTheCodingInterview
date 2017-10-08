@@ -23,22 +23,6 @@ public class Interval {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int counter = 0;
-        int sum = 0;
-        int t = in.nextInt();
-        for(int a0 = 0; a0 < t; a0++){
-            int n = in.nextInt();
-
-            for (int i = 0; i < n; i++) {
-                if (i % 3 == 0 || i % 5 == 0) {
-                    sum += i;
-                }
-            }
-            System.out.println(sum);
-            sum=0;
-        }
-
 
     }
 

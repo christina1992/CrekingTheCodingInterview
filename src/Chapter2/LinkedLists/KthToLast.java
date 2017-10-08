@@ -72,7 +72,7 @@ public class KthToLast {
         list.insertLast(4);
         list.insertLast(5);
         list.insertLast(6);
-        System.out.println(giveMeKthToLastElement(list, 4));
+        System.out.println(nthToLast(list.getFirst(), 2));
         //printKthToLast(list.getFirst(), 4);
 
     }
