@@ -18,10 +18,7 @@ public class StringRotation {
         for (int i = 0; i < word2.length(); i++) {
             sumWord2 += word2.charAt(i) - 'a';
         }
-        if (sumWord1 - sumWord2 > 0 || sumWord1 - sumWord2 == 0) {
-            return true;
-        }
-        return false;
+        return sumWord1 - sumWord2 > 0 || sumWord1 - sumWord2 == 0;
     }
 
     public static boolean isRotation(String str1, String str2) {
