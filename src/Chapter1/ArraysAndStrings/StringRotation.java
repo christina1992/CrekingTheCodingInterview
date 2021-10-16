@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class StringRotation {
 
-    public static boolean isSubstring(String word1, String word2) {
+    private static boolean isSubstring(String word1, String word2) {
         int sumWord1 = 0;
         int sumWord2 = 0;
         for (int i = 0; i < word1.length(); i++) {
@@ -18,7 +18,9 @@ public class StringRotation {
         for (int i = 0; i < word2.length(); i++) {
             sumWord2 += word2.charAt(i) - 'a';
         }
-        if (sumWord1 - sumWord2 > 0 || sumWord1 - sumWord2 == 0) return true;
+        if (sumWord1 - sumWord2 > 0 || sumWord1 - sumWord2 == 0) {
+            return true;
+        }
         return false;
     }
 
@@ -29,10 +31,6 @@ public class StringRotation {
         }
         return false;
     }
-
-//    public static void main(String[] args) {
-//        System.out.println(isRotation("waterbottle", "erbottlewat"));
-//    }
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
