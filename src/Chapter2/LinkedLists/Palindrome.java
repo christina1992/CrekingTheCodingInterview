@@ -7,14 +7,16 @@ import java.util.Stack;
  */
 public class Palindrome {
 
-    public static boolean isPalindrome(SLLNode<Integer> head) {
+    private static boolean isPalindrome(SLLNode<Integer> head) {
         SLLNode<Integer> reversed = reverseAndClone(head);
         return isEqual(head, reversed);
     }
 
     private static boolean isEqual(SLLNode<Integer> one, SLLNode<Integer> two) {
         while (one != null && two != null) {
-            if (one.element != two.element) return false;
+            if (!one.element.equals(two.element)) {
+                return false;
+            }
             one = one.succ;
             two = two.succ;
         }
@@ -54,7 +56,7 @@ public class Palindrome {
         while (slow != null) {
             int top = stack.pop();
 
-             /* If values are different, then it's not a palindrome */
+            /* If values are different, then it's not a palindrome */
             if (top != slow.element) {
                 return false;
             }
@@ -63,7 +65,8 @@ public class Palindrome {
         return true;
     }
 
-    class Result {
+    static class Result {
+
         public SLLNode node;
         public boolean result;
 
@@ -79,14 +82,14 @@ public class Palindrome {
         return p.result;
     }
 
-    Result isPalindromeRecurse(SLLNode head, int length) {
+    private Result isPalindromeRecurse(SLLNode head, int length) {
         if (head == null || length <= 0) { // Even number of nodes
             return new Result(head, true);
         } else if (length == 1) { // Odd number of nodes
             return new Result(head.succ, true);
         }
 
-         /* Recurse on sublist. */
+        /* Recurse on sublist. */
         Result res = isPalindromeRecurse(head.succ, length - 2);
 
          /* If child calls are not a palindrome, pass back up
@@ -95,16 +98,16 @@ public class Palindrome {
             return res;
         }
 
-         /* Check if matches corresponding node on other side. */
+        /* Check if matches corresponding node on other side. */
         res.result = (head.element == res.node.element);
 
-         /* Return corresponding node. */
+        /* Return corresponding node. */
         res.node = res.node.succ;
 
         return res;
     }
 
-    int lengthOfList(SLLNode n) {
+    private int lengthOfList(SLLNode n) {
         int size = 0;
         while (n != null) {
             size++;
